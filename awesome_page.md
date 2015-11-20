@@ -1,0 +1,1 @@
+Merge conflict is when two branches change the same file and try to merge together.
